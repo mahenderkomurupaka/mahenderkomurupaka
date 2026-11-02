@@ -1,48 +1,73 @@
 # Hi, I'm Mahender Komurupaka 👋
 
-### Aspiring SOC Analyst | Cybersecurity Enthusiast
+### Aspiring SOC Analyst | Cybersecurity | Security Operations
 
-I'm a Computer Science and Engineering graduate passionate about cybersecurity, security operations, threat detection, and incident response.
+Computer Science and Engineering graduate focused on developing practical skills in Security Operations, Threat Detection, Security Monitoring, and Incident Response.
 
-I'm currently developing my practical skills in Security Operations Center (SOC) environments through hands-on labs, security investigations, and cybersecurity projects.
+I enjoy investigating security events, understanding network activity, and learning how security teams detect and respond to threats.
 
-### 🎯 Career Objective
-To build a career as a SOC Analyst and develop practical experience in security monitoring, threat detection, log analysis, and incident response.
+## 🛠️ Technical Skills
 
-### 🛠️ Technical Skills
+**SIEM & Security Monitoring**
+- Splunk – Basic SPL searches
+- Wazuh – Currently learning
 
-- **SIEM:** Splunk (Basic Search)
-- **Operating Systems:** Windows, Linux
-- **Networking:** TCP/IP, DNS, HTTP/HTTPS, Network Fundamentals
-- **Security Concepts:** Log Analysis, Threat Detection, Vulnerability Assessment
-- **Security Tools:** Nmap, Wireshark, Burp Suite
-- **Learning:** Wazuh SIEM, Windows Security Event Investigation
+**Operating Systems**
+- Windows
+- Linux
 
-### 🧪 Hands-on Practice
+**Networking**
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Network Troubleshooting
 
-- TryHackMe cybersecurity labs
-- Network reconnaissance and enumeration
-- Linux fundamentals and privilege escalation labs
-- Web application security fundamentals
+**Security Tools**
+- Nmap
+- Wireshark
+- Burp Suite
+
+**Security Fundamentals**
+- Log Analysis
+- Network Reconnaissance
+- Vulnerability Assessment
+- Windows Security Events
+- Incident Response Fundamentals
+
+## 🔬 Hands-on Experience
+
+- TryHackMe cybersecurity practical labs
 - Windows Security Event Investigation
+- Network Enumeration and Reconnaissance
+- Linux Fundamentals and Privilege Escalation
+- Web Application Security Testing
 
-### 📂 Cybersecurity Projects
+## 📂 Cybersecurity Portfolio
 
-I'm building my portfolio through practical cybersecurity projects and documenting my investigations, methodologies, findings, and lessons learned.
+I am building practical SOC Analyst projects and documenting my investigations.
 
-### 📚 Currently Learning
+My portfolio will include:
+- Windows Security Event Investigation
+- Wazuh SIEM Home Lab
+- Splunk Security Monitoring
+- Network Traffic Analysis
+- SOC Incident Investigation Reports
 
-- SOC Operations and Alert Triage
-- Windows Event Logs
-- SIEM Monitoring and Log Analysis
-- Wazuh SIEM
-- Incident Response
+## 📚 Currently Learning
+
+- SOC Alert Triage
+- Windows Event Log Analysis
+- SIEM Monitoring
+- Wazuh Configuration and Alert Investigation
 - Threat Intelligence
+- Incident Response
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/mahender-komurupaka/
-- Email: mahenderkomurupaka6984@gmail.com
-- GitHub: https://github.com/mahenderkomurupaka
+- **LinkedIn:** [Mahender Komurupaka](https://www.linkedin.com/in/mahender-komurupaka/)
+- **GitHub:** [mahenderkomurupaka](https://github.com/mahenderkomurupaka)
+- **Email:** Your professional email
 
-**"Learning, Practicing, Investigating, and Growing in Cybersecurity."**
+---
+
+Learning through hands-on practice and building practical cybersecurity skills.
