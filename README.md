@@ -66,7 +66,7 @@ My portfolio will include:
 
 - **LinkedIn:** [Mahender Komurupaka](https://www.linkedin.com/in/mahender-komurupaka/)
 - **GitHub:** [mahenderkomurupaka](https://github.com/mahenderkomurupaka)
-- **Email:** Your professional email
+- **Email:**  mahenderkomurupaka6984@gmail.com
 
 ---
 
